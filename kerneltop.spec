@@ -1,4 +1,5 @@
-Summary:	shows kernel function usage in a style like 'top'
+Summary:	Shows kernel function usage in a style like 'top'
+Summary(pl):	Wy¶wietlanie u¿ycia funkcji j±dra w stylu programu top
 Name:		kerneltop
 Version:	0.8
 Release:	1
@@ -11,6 +12,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 shows kernel function usage in a style like 'top'.
+
+%description -l pl
+kerneltop pokazuje u¿ycie funkcji j±dra w stylu podobnym do programu
+top.
 
 %prep
 %setup -q -c
