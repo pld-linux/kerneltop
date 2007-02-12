@@ -1,5 +1,5 @@
 Summary:	Shows kernel function usage in a style like 'top'
-Summary(pl):	Wy∂wietlanie uøycia funkcji j±dra w stylu programu top
+Summary(pl.UTF-8):   Wy≈õwietlanie u≈ºycia funkcji jƒÖdra w stylu programu top
 Name:		kerneltop
 Version:	0.8
 Release:	1
@@ -13,8 +13,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 shows kernel function usage in a style like 'top'.
 
-%description -l pl
-kerneltop pokazuje uøycie funkcji j±dra w stylu podobnym do programu
+%description -l pl.UTF-8
+kerneltop pokazuje u≈ºycie funkcji jƒÖdra w stylu podobnym do programu
 top.
 
 %prep
