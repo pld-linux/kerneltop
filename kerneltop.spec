@@ -1,5 +1,5 @@
 Summary:	Shows kernel function usage in a style like 'top'
-Summary(pl.UTF-8):   Wyświetlanie użycia funkcji jądra w stylu programu top
+Summary(pl.UTF-8):	Wyświetlanie użycia funkcji jądra w stylu programu top
 Name:		kerneltop
 Version:	0.8
 Release:	1
